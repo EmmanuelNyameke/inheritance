@@ -1,1 +1,1 @@
-# inheritance
+This contains a console application that allows users to find the perimeter and area of some shapes such as triangle, square, rectangle, etc, a simple student management system which helps in entering the name and gpa of a particular student and a simple employee management system which also help calculating the wages for an employee who works overtime.
